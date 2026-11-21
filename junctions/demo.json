@@ -1,0 +1,14 @@
+{
+  "name": "Demo junction",
+  "source": "data/clips/demo.mp4",
+  "roads": [
+    {"id": "R1", "name": "Road 1", "polygon": []},
+    {"id": "R2", "name": "Road 2", "polygon": []},
+    {"id": "R3", "name": "Road 3", "polygon": []},
+    {"id": "R4", "name": "Road 4", "polygon": []}
+  ],
+  "crossings": [],
+  "fixed_plan": {"R1": 30, "R2": 30, "R3": 25, "R4": 25},
+  "cycle_seconds": 120,
+  "occupancy": {}
+}
